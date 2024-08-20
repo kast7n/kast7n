@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Rida Darsa</h1>
-<h3 align="center">A professional backend developer from Lebanon</h3>
+<h3 align="center">A Professional developer from Lebanon</h3>
 
 - 🔭 I’m currently working on **Expense Application**
 
