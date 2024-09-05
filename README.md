@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Expense Application**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kast7n](https://github.com/kast7n)
 
