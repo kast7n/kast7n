@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">I'm Ali Rida Darsa from Lebanon<br><br>- 🔭 I’m working as a Web Developer at Diraya<br>- 📚 I'm currently learning AWS and AI Agents</h3>
+<h3 align="left">I'm Ali Rida Darsa from Lebanon<br>- 📚 I'm currently learning AWS and AI Agents</h3>
 
 ###
 
